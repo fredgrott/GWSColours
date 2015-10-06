@@ -106,7 +106,7 @@ install {
               pom {
                 project {
                   packaging 'aar'
-                  name 'colours utility class'
+                  name 'GWSColours'
                   url siteUrl
 
                   licenses {
